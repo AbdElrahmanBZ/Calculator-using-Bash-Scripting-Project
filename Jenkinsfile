@@ -5,6 +5,7 @@ pipeline {
         stage('pipeline test1') {
             steps {
                 sh 'ls '
+                sh 'docker ps'
             }
         }
         stage('pipeline test2') {
