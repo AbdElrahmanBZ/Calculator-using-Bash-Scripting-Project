@@ -43,3 +43,8 @@ the main menu contains:
 4) OR
 5) XOR
 6) NOT
+![Screenshot 2023-05-02 063405](https://user-images.githubusercontent.com/27619754/235574355-ef2a6c5e-3c34-4eb8-be84-9dc1295c23e6.png)
+![Screenshot 2023-05-02 063441](https://user-images.githubusercontent.com/27619754/235574357-80461586-d361-4ab9-9d4c-709a77c0655b.png)
+![Screenshot 2023-05-02 063523](https://user-images.githubusercontent.com/27619754/235574359-42fa41f3-0a4d-414b-99a0-222436762022.png)
+![Screenshot 2023-05-02 063640](https://user-images.githubusercontent.com/27619754/235574362-2dfbb127-fff6-4193-8a48-369561a94828.png)
+![Screenshot 2023-05-02 063733](https://user-images.githubusercontent.com/27619754/235574363-ca841058-a229-4a26-b9d3-7fbf7ba41735.png)
